@@ -8,7 +8,7 @@ library(tidyverse)
 library(writexl)
 
 ## 2. API base URL -------------------------------------------------------------
-base_url <- "https://clinicaltrials.gov/api/v2/studies"
+base_url <- "XXXXXX"
 
 # COVID-19 vaccination RCTs
 params2 <- list(
